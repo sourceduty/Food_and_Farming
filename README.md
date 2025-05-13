@@ -29,3 +29,5 @@ In a move that bridges agricultural heritage with digital innovation, John Deere
 [Deere Tractor](https://chatgpt.com/g/g-6783e046d5708191827d6cf4cdd200fb-deere-tractor)
 <br>
 [Farm Kids](https://chatgpt.com/g/g-67aeea709ff08191901271137276e928-farm-kids)
+<br>
+[Bale Barn](https://chatgpt.com/g/g-67cc90d079848191a46911d1627f1796-bale-barn)
