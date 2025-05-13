@@ -21,3 +21,5 @@ On the food science and health front, tools like Food Balancer, Food Theory, and
 [Image File Farm](https://chatgpt.com/g/g-67dfc2674a2c8191a3d85e5476d11137-image-file-farm)
 <br>
 [Deere Tractor](https://chatgpt.com/g/g-6783e046d5708191827d6cf4cdd200fb-deere-tractor)
+<br>
+[Farm Kids](https://chatgpt.com/g/g-67aeea709ff08191901271137276e928-farm-kids)
