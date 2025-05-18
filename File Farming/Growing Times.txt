@@ -1,0 +1,18 @@
+This list outlines various digital file types along with their estimated "growing times"—how long it typically takes to develop them from a minimal seed file to a fully formed asset in a file farming environment. These times depend on input complexity, manual versus automated processes, and the overall structure of the file. The purpose is to guide digital farmers in planning their file cultivation strategies.
+
+report.docx      - 2–5 days
+website.html     - 1–3 days
+script.py        - 1–2 days
+ebook.epub       - 1–2 weeks
+cv.pdf           - 1–3 hours
+dataset.csv      - 2–4 days
+video.mp4        - 1–2 weeks
+presentation.pptx - 1–3 days
+invoice.xlsx     - 2–6 hours
+blogpost.md      - 1–2 days
+newsletter.html  - 1–2 days
+poster.ai        - 2–5 days
+resume.json      - 1–2 hours
+tutorial.pdf     - 2–5 days
+game.unity       - 2–4 weeks
+infographic.svg  - 2–4 days
