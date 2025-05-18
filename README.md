@@ -1,4 +1,4 @@
-![Famer](https://github.com/user-attachments/assets/64fe5779-075c-4fff-925a-b48a5fd87a05)
+![Farmer](https://github.com/user-attachments/assets/64fe5779-075c-4fff-925a-b48a5fd87a05)
 
 #
 
