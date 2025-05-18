@@ -1,4 +1,4 @@
-![Farming](https://github.com/user-attachments/assets/4af80bf7-25b9-4a22-9eab-ce2f4011f07c)
+![Famer](https://github.com/user-attachments/assets/64fe5779-075c-4fff-925a-b48a5fd87a05)
 
 #
 
@@ -9,6 +9,8 @@ The GPTs Deere Tractor and Farm Network delve into the realm of agricultural tec
 On the food science and health front, tools like Food Balancer, Food Theory, and Food Vehicle showcase Sourceduty’s focus on nutritional balance, scientific exploration, and entrepreneurial creativity. Food Balancer is a dietary assistant designed to optimize meal composition. Food Theory takes a deeper dive into the chemical and biological structures of food, offering research, simulation, and educational outputs. Food Vehicle combines culinary and visual design by helping users conceptualize food trucks or mobile food businesses through AI-generated visuals. Additional utilities such as Hydroponic Sim, Military Food, and Tree Farm reinforce Sourceduty’s holistic approach to agricultural innovation, covering sustainable growing systems, tactical food engineering, and commercial forestry. Each of these GPTs contributes to a robust digital ecosystem supporting research, simulation, and creativity across critical domains.
 
 #
+
+![Farming](https://github.com/user-attachments/assets/4af80bf7-25b9-4a22-9eab-ce2f4011f07c)
 
 | GPT Tool            | Project Idea                              | Description                                                                 |
 |---------------------|-------------------------------------------|-----------------------------------------------------------------------------|
