@@ -54,17 +54,17 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 
 <br>
 
-| Agriculture OS        | Scale                  | Timeframe            | Details                                                                                         |
-|-----------------------|------------------------|----------------------|-------------------------------------------------------------------------------------------------|
-| **Precision Agriculture OS** | Large-scale/Enterprise  | Ongoing (Long-term)   | Focuses on integrating IoT sensors, drones, and AI to optimize inputs (water, fertilizers, etc.), improve yield predictions, and enable precise crop management. Examples include Climate FieldView, John Deere Operations Center.|
-| **Smallholder Farm OS**       | Smallholder/Familial    | Short-term (2-3 years) | Tailored for small-scale farms, integrating mobile-based solutions for irrigation control, soil monitoring, and pest management. Examples include FarmBeats (by Microsoft), AgroStar. |
-| **Smart Irrigation OS**       | Medium to Large-scale   | Mid-term (3-5 years)  | Uses real-time weather data, soil moisture sensors, and predictive models to optimize water usage and minimize waste. Examples include AquaSpy, CropX. |
-| **Autonomous Farming OS**     | Large-scale Agribusiness | Long-term (5-10 years) | Implements autonomous machinery (tractors, harvesters) and robotics for tasks such as plowing, planting, and harvesting. Examples include Raven Applied Technology, Case IH Autonomous Tractors. |
-| **AI-Driven Crop & Soil OS**  | Medium to Large-scale   | Mid-term (3-5 years)  | Uses AI to analyze data from drones, satellites, and sensors for predictive crop health, pest outbreaks, and soil health management. Examples include IBM Watson Decision Platform for Agriculture. |
-| **Livestock Management OS**   | Medium to Large-scale   | Mid-term (3-5 years)  | Utilizes IoT and AI for tracking livestock health, optimizing breeding programs, and automating feeding and milking. Examples include Cowlar, eCow. |
-| **Agri-Blockchain OS**        | Large-scale/Global      | Long-term (5-10 years) | Focuses on creating transparent supply chains, ensuring traceability from farm to table, and improving food security with blockchain technology. Examples include AgriDigital, Ripe Robotics. |
-| **Farm Management OS**        | All Scales              | Ongoing (Long-term)   | General-purpose OS for farm operations, including financial management, crop planning, and weather forecasting. Examples include Trimble Ag Software, Ag Leader. |
-| **Vertical Farming OS**       | Urban/Indoor Farming    | Long-term (5-10 years) | Tailored for controlled environment agriculture, integrating climate control, hydroponics, and automation for urban farming systems. Examples include Plenty, Bowery Farming. |
+| Agriculture OS            | Scale                   | Timeframe                  | Details                                                                                         |
+|---------------------------|-------------------------|----------------------------|-------------------------------------------------------------------------------------------------|
+| **Precision Agriculture OS** | Large-scale/Enterprise  | Long-term (24+ months / 2+ years)  | Focuses on integrating IoT sensors, drones, and AI to optimize inputs (water, fertilizers, etc.), improve yield predictions, and enable precise crop management. Examples include Climate FieldView, John Deere Operations Center.|
+| **Smallholder Farm OS**       | Smallholder/Familial    | Short-term (6-36 months / 0.5-3 years) | Tailored for small-scale farms, integrating mobile-based solutions for irrigation control, soil monitoring, and pest management. Examples include FarmBeats (by Microsoft), AgroStar. |
+| **Smart Irrigation OS**       | Medium to Large-scale   | Mid-term (12-60 months / 1-5 years) | Uses real-time weather data, soil moisture sensors, and predictive models to optimize water usage and minimize waste. Examples include AquaSpy, CropX. |
+| **Autonomous Farming OS**     | Large-scale Agribusiness | Long-term (24-120 months / 2-10 years) | Implements autonomous machinery (tractors, harvesters) and robotics for tasks such as plowing, planting, and harvesting. Examples include Raven Applied Technology, Case IH Autonomous Tractors. |
+| **AI-Driven Crop & Soil OS**  | Medium to Large-scale   | Mid-term (12-60 months / 1-5 years)  | Uses AI to analyze data from drones, satellites, and sensors for predictive crop health, pest outbreaks, and soil health management. Examples include IBM Watson Decision Platform for Agriculture. |
+| **Livestock Management OS**   | Medium to Large-scale   | Mid-term (12-60 months / 1-5 years)  | Utilizes IoT and AI for tracking livestock health, optimizing breeding programs, and automating feeding and milking. Examples include Cowlar, eCow. |
+| **Agri-Blockchain OS**        | Large-scale/Global      | Long-term (24-120 months / 2-10 years) | Focuses on creating transparent supply chains, ensuring traceability from farm to table, and improving food security with blockchain technology. Examples include AgriDigital, Ripe Robotics. |
+| **Farm Management OS**        | All Scales              | Long-term (12+ months / 1+ year)   | General-purpose OS for farm operations, including financial management, crop planning, and weather forecasting. Examples include Trimble Ag Software, Ag Leader. |
+| **Vertical Farming OS**       | Urban/Indoor Farming    | Long-term (24-120 months / 2-10 years) | Tailored for controlled environment agriculture, integrating climate control, hydroponics, and automation for urban farming systems. Examples include Plenty, Bowery Farming. |
 
 #
 
