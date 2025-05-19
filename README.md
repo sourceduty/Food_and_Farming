@@ -68,6 +68,12 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 
 #
 
+![Agritech Prompt](https://github.com/user-attachments/assets/3339445b-a0e6-4322-bfd7-b51b01dcc34f)
+
+[Agritech Prompt](https://chatgpt.com/g/g-682aed948620819198ed65cb9f31bc68-agritech-prompt) is a specialized version of ChatGPT designed to support the development of terminal-style applications tailored for the agricultural sector. Its purpose is to assist farmers, agronomists, and researchers by creating lightweight, text-based tools that help optimize various agricultural practices such as crop monitoring, soil health analysis, irrigation scheduling, pest and disease tracking, weather forecasting, and digital farm recordkeeping. Agritech, short for agricultural technology, refers to the use of advanced tools, data analysis, and automation—often involving sensors, satellite data, artificial intelligence, and IoT devices—to improve the efficiency, productivity, and sustainability of farming. Agritech spans innovations in precision farming, climate-smart practices, sustainable input management, and decision-support systems. This GPT focuses on coding practical, open-source solutions that run efficiently in rural or low-resource environments, promoting smart, science-driven agriculture accessible to all.
+
+#
+
 [Farm Builder](https://chatgpt.com/g/g-676d2b7fe2548191ae3763133bf9ebb6-farm-builder)
 <br>
 [Image File Farm](https://chatgpt.com/g/g-67dfc2674a2c8191a3d85e5476d11137-image-file-farm)
