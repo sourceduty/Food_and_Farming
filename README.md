@@ -89,3 +89,5 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 [Bale Barn](https://chatgpt.com/g/g-67cc90d079848191a46911d1627f1796-bale-barn)
 <br>
 [Environment Hardware](https://chatgpt.com/g/g-68214d26d598819181550d51c5a0af14-environment-hardware)
+<br>
+[Survival](https://github.com/sourceduty/Survival)
