@@ -92,6 +92,8 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 <br>
 [Farm Kids](https://chatgpt.com/g/g-67aeea709ff08191901271137276e928-farm-kids)
 <br>
+[Bullseye Arrow](https://chatgpt.com/g/g-682f1494c0048191824406b0786bfd9f-bullseye-arrow)
+<br>
 [Bale Barn](https://chatgpt.com/g/g-67cc90d079848191a46911d1627f1796-bale-barn)
 <br>
 [Environment Hardware](https://chatgpt.com/g/g-68214d26d598819181550d51c5a0af14-environment-hardware)
