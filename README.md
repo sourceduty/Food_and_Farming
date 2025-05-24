@@ -1,15 +1,3 @@
-![Farmer](https://github.com/user-attachments/assets/64fe5779-075c-4fff-925a-b48a5fd87a05)
-
-#
-
-Sourceduty has developed an impressive lineup of custom GPTs, each tailored to address specific areas within agriculture, food science, and product innovation. For instance, the Animal Product GPT enables the creation of animal- and insect-related product packaging using DALL·E 3. It includes category-specific tools for mammals, fish, and birds, which allows users to generate visual product concepts quickly for niche animal markets. Similarly, the Condensed Food GPT is engineered to assist in the design and development of compact versions of snacks, drinks, and meals. This tool is ideal for exploring food preservation, space-saving rations, or even futuristic culinary innovations.
-
-The GPTs Deere Tractor and Farm Network delve into the realm of agricultural technology. The Deere Tractor GPT is designed to simulate John Deere tractor interfaces, allowing developers or engineers to explore automation features or prototype new interaction methods. Meanwhile, the Farm Network GPT supports the design and simulation of digital farm networks, acting as an assistive engineering tool for optimizing communication between agricultural machines. These tools represent the merging of traditional farming with next-generation technology, helping users better visualize and prototype smart farming systems.
-
-On the food science and health front, tools like Food Balancer, Food Theory, and Food Vehicle showcase Sourceduty’s focus on nutritional balance, scientific exploration, and entrepreneurial creativity. Food Balancer is a dietary assistant designed to optimize meal composition. Food Theory takes a deeper dive into the chemical and biological structures of food, offering research, simulation, and educational outputs. Food Vehicle combines culinary and visual design by helping users conceptualize food trucks or mobile food businesses through AI-generated visuals. Additional utilities such as Hydroponic Sim, Military Food, and Tree Farm reinforce Sourceduty’s holistic approach to agricultural innovation, covering sustainable growing systems, tactical food engineering, and commercial forestry. Each of these GPTs contributes to a robust digital ecosystem supporting research, simulation, and creativity across critical domains.
-
-#
-
 ![Farming](https://github.com/user-attachments/assets/4af80bf7-25b9-4a22-9eab-ce2f4011f07c)
 
 | GPT Tool            | Project Idea                              | Description                                                                 |
@@ -71,6 +59,12 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 ![Agritech Prompt](https://github.com/user-attachments/assets/3339445b-a0e6-4322-bfd7-b51b01dcc34f)
 
 [Agritech Prompt](https://chatgpt.com/g/g-682aed948620819198ed65cb9f31bc68-agritech-prompt) is a specialized custom GPT that supports the development of terminal-style applications tailored for the agricultural sector. Its purpose is to assist farmers, agronomists, and researchers by creating lightweight, text-based tools that help optimize various agricultural practices such as crop monitoring, soil health analysis, irrigation scheduling, pest and disease tracking, weather forecasting, and digital farm recordkeeping. Agritech, short for agricultural technology, refers to the use of advanced tools, data analysis, and automation—often involving sensors, satellite data, artificial intelligence, and IoT devices—to improve the efficiency, productivity, and sustainability of farming. Agritech spans innovations in precision farming, climate-smart practices, sustainable input management, and decision-support systems. This GPT focuses on coding practical, open-source solutions that run efficiently in rural or low-resource environments, promoting smart, science-driven agriculture accessible to all.
+
+#
+
+![Food Designer](https://github.com/user-attachments/assets/138a259f-3265-43a5-b9a9-b7c188670a17)
+
+[Food Designer](https://chatgpt.com/g/g-68314dd120b081918f95d49f6b62a66a-food-designer) was developed to help users design, engineer, and conceptualize innovative and creative food experiences, including meals, packaging, and dining concepts. It focuses on combining elements like texture, flavor profiles, visual appeal, and cultural influences to craft dishes that are not only delicious but also visually striking. Whether the task involves designing a gourmet dish that delights the senses or creating packaging that is functional, sustainable, and in line with a brand’s identity, Food Designer takes an imaginative yet practical approach. It assists in visualizing food and packaging, ensuring they are aesthetically captivating while also considering factors such as functionality, protection, and ease of use. By exploring these concepts in-depth, Food Designer seeks to elevate the culinary experience, ensuring that every aspect, from the meal itself to how it’s presented and delivered, is well-thought-out and resonates with the intended audience. This GPT uses its creativity and practical understanding to help users bring their food-related ideas to life in a way that merges artistry with practicality.
 
 #
 
