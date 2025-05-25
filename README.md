@@ -80,6 +80,13 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 
 #
 
+![Camo Camping Tent](https://github.com/user-attachments/assets/ca525eda-93ba-480a-b4c9-1de564648a72)
+
+[Camp Warrior](https://chatgpt.com/g/g-68332151fa248191991d0b039664ded4-camp-warrior) was built to help outdoor enthusiasts plan, prepare, and manage their camping adventures with efficiency and precision. It simulates a command-line interface where users input structured commands to initialize trips, create detailed itineraries, generate optimized packing lists, and receive real-time support during their outdoor excursions. For example, users can configure their adventure with camp-init, specifying location, duration, group size, and preferred weather conditions. Once initialized, they can use commands like camp-plan to receive custom itineraries with hiking routes, meal suggestions, and themed activities tailored to their group’s preferences and fitness level. The camp-pack command builds a detailed, weight-optimized packing list categorized by essentials, gear, and shared items, while also offering interactive and export features. Camp Warrior doesn’t stop once the trip begins—it continues to support users with commands like camp-checkin to log campsite data, camp-weather for live forecasts and alerts, and camp-foodlog to track supplies. It even allows users to document events and share feedback through camp-events and camp-wrapup. By combining digital precision with the rugged demands of outdoor life, Camp Warrior acts as a dependable virtual scout, ensuring campers stay organized, informed, and safe throughout their journey.
+
+
+#
+
 [Image File Farm](https://chatgpt.com/g/g-67dfc2674a2c8191a3d85e5476d11137-image-file-farm)
 <br>
 [Deere Tractor](https://chatgpt.com/g/g-6783e046d5708191827d6cf4cdd200fb-deere-tractor)
