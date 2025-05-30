@@ -1,4 +1,4 @@
-![Mac Line](https://github.com/user-attachments/assets/6867b86e-43f7-41cf-a3c2-50241669fb0c)
+![Kitchen Codemonkey](https://github.com/user-attachments/assets/f666bbf3-d071-4c6c-8d29-00c562b81e5b)
 
 <br>
 
@@ -95,3 +95,5 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 [Environment Hardware](https://chatgpt.com/g/g-68214d26d598819181550d51c5a0af14-environment-hardware)
 <br>
 [Survival](https://github.com/sourceduty/Survival)
+<br>
+[Kitchen Codemonkey](https://chatgpt.com/g/g-68381e8a12588191b7b3f250bfd0092c-kitchen-codemonkey)
