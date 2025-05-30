@@ -1,4 +1,4 @@
-![Kitchen Codemonkey](https://github.com/user-attachments/assets/f666bbf3-d071-4c6c-8d29-00c562b81e5b)
+![Kitchen Codemonkey](https://github.com/user-attachments/assets/32f07b8e-e79c-4c28-ac30-053d3f7d16ce)
 
 <br>
 
