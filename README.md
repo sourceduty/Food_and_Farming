@@ -94,3 +94,5 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 [Survival](https://github.com/sourceduty/Survival)
 <br>
 [Kitchen Codemonkey](https://chatgpt.com/g/g-68381e8a12588191b7b3f250bfd0092c-kitchen-codemonkey)
+<br>
+[Hand Tooling](https://chatgpt.com/g/g-68445142516c819187781c3fb5b4f814-hand-tooling)
