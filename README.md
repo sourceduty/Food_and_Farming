@@ -75,7 +75,6 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 #
 
 ![Tropical Pine Organce Fruit Tree](https://github.com/user-attachments/assets/9cc18b65-6d8f-4ecb-8220-533ac63a4de8)
-![$5 Shake](https://github.com/user-attachments/assets/733cbe92-ac33-4af9-9a55-53a77d84760c)
 
 #
 
