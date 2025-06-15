@@ -1,4 +1,4 @@
-![Kitchen Codemonkey](https://github.com/user-attachments/assets/0e0ebd3b-b9ec-40c2-b745-83d8843e13ef)
+![Foods](https://github.com/user-attachments/assets/ae8b57f0-ac98-4b0c-95e9-e6197b390ce4)
 
 <br>
 
@@ -78,6 +78,8 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 
 [Stoner Bud](https://chatgpt.com/g/g-684bcb641c748191b0b88251d473e450-stoner-bud) is designed to support cannabis cultivators, entrepreneurs, and brand developers with innovative, practical solutions tailored to the evolving cannabis industry. It offers expert advice on sustainable cultivation techniques, strain development, yield optimization, and legal compliance, while also delivering edgy, market-savvy strategies for branding, marketing, and product expansion. Whether you're aiming to boost your farm's efficiency, create standout flower varieties, or craft viral social media campaigns, Stoner Bud blends deep agricultural knowledge with cannabis culture and sharp business insight to help you thrive in a competitive, highly regulated space.
 
+#
+![Butt Chugging](https://github.com/user-attachments/assets/730c6fc6-8d72-4c4d-98ee-d926db5d1f94)
 #
 
 [Image File Farm](https://chatgpt.com/g/g-67dfc2674a2c8191a3d85e5476d11137-image-file-farm)
