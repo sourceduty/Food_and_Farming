@@ -91,3 +91,5 @@ In a move that bridges agricultural heritage with digital innovation, John Deere
 [Kitchen Codemonkey](https://chatgpt.com/g/g-68381e8a12588191b7b3f250bfd0092c-kitchen-codemonkey)
 <br>
 [Hand Tooling](https://chatgpt.com/g/g-68445142516c819187781c3fb5b4f814-hand-tooling)
+<br>
+[Food Factory](https://chatgpt.com/g/g-686f699ab0e881918779edec7a040d83-food-factory)
