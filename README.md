@@ -62,8 +62,6 @@ In a move that bridges agricultural heritage with digital innovation, John Deere
 
 [Stoner Bud](https://chatgpt.com/g/g-684bcb641c748191b0b88251d473e450-stoner-bud) is designed to support cannabis cultivators, entrepreneurs, and brand developers with innovative, practical solutions tailored to the evolving cannabis industry. It offers expert advice on sustainable cultivation techniques, strain development, yield optimization, and legal compliance, while also delivering edgy, market-savvy strategies for branding, marketing, and product expansion. Whether you're aiming to boost your farm's efficiency, create standout flower varieties, or craft viral social media campaigns, Stoner Bud blends deep agricultural knowledge with cannabis culture and sharp business insight to help you thrive in a competitive, highly regulated space.
 
-Also, [Edible High](https://chatgpt.com/g/g-68721f4f34c48191914b6448fc8476cf-edible-high) was made to assist users in a friendly and guided way, helping them make decisions or explore topics in a structured, step-by-step approach. It aims to engage in clear, informative conversations while ensuring the user feels supported and empowered in their choices. Edible High prioritizes safety, respect for boundaries, and ethical guidelines, making sure all interactions align with responsible behavior. The goal is to create an enjoyable experience, providing insights or guidance without crossing into harmful or inappropriate subjects. 
-
 #
 
 ![Freezer Food](https://github.com/user-attachments/assets/b527818a-c216-4f5f-8dbf-a591df84f33c)
